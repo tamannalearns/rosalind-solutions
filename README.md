@@ -8,7 +8,7 @@ I'm using these exercises to practice Python, computational thinking, and bioinf
 ## Repository Structure
 
 - `begpython` – Introductory Python exercises
-- `biostronghold/` – Core bioinformatics problems
+- `biostronghold` – Core bioinformatics problems
 ## Language
 
 - Python
