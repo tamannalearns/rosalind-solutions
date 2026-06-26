@@ -1,13 +1,14 @@
 # rosalind-solutions
 Rosalind solutions
+
 This repository contains my solutions to problems from the Rosalind bioinformatics platform.
 
 I'm using these exercises to practice Python, computational thinking, and bioinformatics algorithms as I learn the subject.
 
 ## Repository Structure
 
-- `python_village/` – Introductory Python exercises
-- `bioinformatics_stronghold/` – Core bioinformatics problems
+- `begpython` – Introductory Python exercises
+- `biostronghold/` – Core bioinformatics problems
 ## Language
 
 - Python
